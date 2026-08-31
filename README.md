@@ -625,7 +625,8 @@ The overall objective is to move from:
           ↓
 Predictive Risk Identification
           ↓
-Proactive Operational Decision-Making```
+Proactive Operational Decision-Making
+```
 
 ## 🛠️ Technology Stack
 
