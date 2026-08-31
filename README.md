@@ -677,14 +677,17 @@ Update folder/file names to match the actual repository structure.
 
 ## 🎯 Skills Demonstrated
 ## Data Analytics
+```
 Exploratory Data Analysis
 Data Cleaning
 Missing-Value Treatment
 Outlier Analysis
 Statistical Analysis
 KPI Development
+```
 
 ## SQL
+```
 Data Extraction
 Joins
 Aggregations
@@ -692,28 +695,35 @@ CTEs
 Subqueries
 Window Functions
 Analytical Queries
+```
 
 ## Machine Learning
+```
 Binary Classification
 Feature Engineering
 Leakage Prevention
 Model Benchmarking
 Model Evaluation
 Scikit-learn Pipelines
-ColumnTransformer
+Column Transformer
+```
 
 ## Supply Chain Analytics
+```
 Delivery Performance
 Shipment Risk
 Logistics Analytics
 Customer/Product Segmentation
 External Risk Analysis
 Operational Decision Support
+```
 
 ## Business Intelligence
+```
 Power BI
 DAX
 Interactive Dashboards
 KPI Reporting
 Risk Prioritization
+```
 
